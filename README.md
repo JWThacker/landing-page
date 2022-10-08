@@ -1,6 +1,7 @@
 # Udacity Front End Nanodegreed, Project Two: Landing Page
 
 ## Project Link
+https://jwthacker.github.io/landing-page/
 
 ## Project Description
 
